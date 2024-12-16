@@ -1,0 +1,102 @@
+ 
+
+ls 
+
+ 
+
+We can use ls command to listout all files and directories present in the given directory. 
+
+ 
+
+We can get manual documentation for any command by using man. 
+
+man ls 
+
+ 
+
+It provides complete information about ls command. 
+
+ 
+
+Various options of ls Command: 
+
+1) ls 
+
+ 
+
+It will display all files and directories according to alphabetical order of names. 
+
+ 
+
+2) ls -r 
+
+ 
+
+It will display all files and directories in reverse of aplhabetical order. 
+
+ 
+
+3) ls | more 
+
+ 
+
+To display content line by line 
+
+(To come out we have to use q) 
+
+ 
+
+4)ls -l 
+
+ 
+
+To display long listing of files 
+
+ 
+
+5) ls -t 
+
+To display all files based on last modified date and time. Most recent is at top and old 
+
+are at bottom. 
+
+6) ls -rt 
+
+To display all files based on reverse of last modified date and time. Old files are at top 
+
+and recent files are at bottom. 
+
+7) ls -a 
+
+a means all 
+
+To display all files including hidden files. Here . and .. also will be displayed. 
+
+8) ls -A 
+
+A means almost all 
+
+To display all files including hidden files except . and .. 
+
+9) ) ls -h 
+
+display in human readable format 
+
+10) ls -R 
+
+R means Recursive. 
+
+It will list all files and directories including sub directory contents also. By default ls 
+
+will display only direct contents but not sub directory contents. 
+
+ 
+
+
+ 
+
+
+
+ 
+
+ 
